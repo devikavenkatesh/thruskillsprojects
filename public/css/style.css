@@ -1,0 +1,12 @@
+.active{
+    color:#fff !important;
+    border-bottom: 2px solid #fff;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.bc-item{
+    color: #007bff;
+}
