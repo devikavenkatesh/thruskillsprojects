@@ -59,7 +59,7 @@ function SendMail(data, res)
     service: 'gmail',
     auth: {
       user: 'devikavenk@gmail.com',
-      pass: 'jajinivas'
+      pass: 'asasas'
     }
   });
   
